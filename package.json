@@ -1,0 +1,19 @@
+{
+  "name": "scores-log",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "http-errors": "~1.6.3",
+    "joi": "^17.11.0",
+    "mongoose": "^7.5.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^3.0.1"
+  }
+}
